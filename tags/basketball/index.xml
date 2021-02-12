@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basketball on Home</title>
+    <link>https://javieraguilarf.github.io/Portfolio/tags/basketball/</link>
+    <description>Recent content in Basketball on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Feb 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://javieraguilarf.github.io/Portfolio/tags/basketball/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Euroleague Games</title>
+      <link>https://javieraguilarf.github.io/Portfolio/post/chapter-1/</link>
+      <pubDate>Thu, 04 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://javieraguilarf.github.io/Portfolio/post/chapter-1/</guid>
+      <description>The aim of this notebook is to examine the “Basketball-Euroleague RESULTS 2003-2020” dataset to find some interesting information and to see the differences between teams or trends in the game over the years. Finally we’ll estimate the final difference using different ML techniques.
+ Home/Away Ratio winning Final Difference prediction Winning Streaks  Project&amp;rsquo;s Repository</description>
+    </item>
+    
+  </channel>
+</rss>
